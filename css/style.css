@@ -52,24 +52,10 @@ MAIN
 ***********************************
 */
 
-.main1{
-    height: 100px;
-}
-
-.main2{
-    height: 50px;
-}
-
-.main3,
-.main4,
-.main5,
-.main6,
-.main7,
-.main8 {
-    height: 300px;
-}
-
-main .col-11 {
+.row div{
     border: 1px solid black;
-    background-color: wheat;
+}
+
+.main3 div{
+    height: 250px;
 }
