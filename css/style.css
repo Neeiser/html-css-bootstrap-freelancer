@@ -14,10 +14,6 @@ nav .col-2 {
     background-color: red ;
 }
 
-header *{
-    border: 0.5px solid black;
-}
-
 header {
     height: 550px;
     background-color: #1abc9c;
@@ -28,7 +24,7 @@ header .hero1{
 }
 
 header .hero1 .col{
-    height: 200px;
+    height: 290px;
     background-color: red;
 }
 
