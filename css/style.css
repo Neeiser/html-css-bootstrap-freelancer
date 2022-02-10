@@ -13,3 +13,33 @@ nav .col-2 {
     height: 50px;
     background-color: red ;
 }
+
+header *{
+    border: 0.5px solid black;
+}
+
+header {
+    height: 550px;
+    background-color: #1abc9c;
+}
+
+header .hero1{
+    height: 300px;
+}
+
+header .hero1 .col{
+    height: 200px;
+    background-color: red;
+}
+
+header .hero2{
+    height: 83px;
+}
+
+header .hero3{
+    height: 83px;
+}
+
+header .hero4{
+    height: 83px;
+}
