@@ -14,6 +14,12 @@ nav .col-2 {
     background-color: red ;
 }
 
+/*
+***********************************
+HEADER 
+***********************************
+*/
+
 header {
     height: 550px;
     background-color: #1abc9c;
@@ -38,4 +44,32 @@ header .hero3{
 
 header .hero4{
     height: 83px;
+}
+
+/*
+***********************************
+MAIN 
+***********************************
+*/
+
+.main1{
+    height: 100px;
+}
+
+.main2{
+    height: 50px;
+}
+
+.main3,
+.main4,
+.main5,
+.main6,
+.main7,
+.main8 {
+    height: 300px;
+}
+
+main .col-11 {
+    border: 1px solid black;
+    background-color: wheat;
 }
