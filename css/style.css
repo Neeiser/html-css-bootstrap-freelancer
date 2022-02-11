@@ -60,6 +60,7 @@ MAIN
 ***********************************
 */
 
+/* PORTFOLIO */
 .main-title .main-star{
     color: #2c3e50;
 }
@@ -73,6 +74,23 @@ MAIN
 
 .main-content .rounded-3 {
     border-radius: 0.6rem!important; /* SOVRASCRIVO LA PROPRIETA' */
+}
+
+/* ABOUT*/
+
+.main-about{
+    background-color: #1abc9c;
+}
+
+.main-about .main-star{
+    color: #ffffff;
+}
+
+.main-about .main-star-line{
+    height: 1px;
+    width: 20%;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
 }
 
 /*
