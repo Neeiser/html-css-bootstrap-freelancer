@@ -1,3 +1,9 @@
+/*
+***********************************
+NAVBAR
+***********************************
+*/
+
 nav{
     height: 90px;
 }
@@ -9,6 +15,12 @@ nav{
 .navbar-brand{
     font-weight: 600;
 }
+
+.navbar-dark .navbar-toggler{
+color: rgba(255,255,255,.55);
+border-color: rgba(255,255,255,0.8); /* Regola di bootstrap ritoccata*/
+}
+
 /*
 ***********************************
 HEADER 
