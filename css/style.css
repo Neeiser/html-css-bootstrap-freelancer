@@ -4,6 +4,10 @@ NAVBAR
 ***********************************
 */
 
+.nav-height-fixed{
+    height: 90px;
+}
+
 nav{
     height: 90px;
 }
@@ -20,6 +24,8 @@ nav{
 color: rgba(255,255,255,.55);
 border-color: rgba(255,255,255,0.8); /* Regola di bootstrap ritoccata*/
 }
+
+
 
 /*
 ***********************************
