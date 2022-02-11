@@ -47,6 +47,13 @@ header {
     height: 100%;
 }
 
+.hero .hero-star-line{
+    height: 1px;
+    width: 20%;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
 /*
 ***********************************
 MAIN 
