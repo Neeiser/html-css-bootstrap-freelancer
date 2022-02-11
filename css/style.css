@@ -27,12 +27,16 @@ border-color: rgba(255,255,255,0.8); /* Regola di bootstrap ritoccata*/
 
 /*
 ***********************************
-HEADER 
+HEADER / HERO 
 ***********************************
 */
 
 header {
     background-color: #1abc9c;
+}
+
+.hero{
+    color: white;
 }
 
 .hero-img-container{
