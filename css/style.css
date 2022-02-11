@@ -82,17 +82,25 @@ MAIN
     background-color: #1abc9c;
 }
 
-.main-about .main-star{
-    color: #ffffff;
+.main-about .row{
+    color: white;
 }
 
 .main-about .main-star-line{
     height: 1px;
     width: 20%;
-    border: 2px solid #ffffff;
+    border: 2px solid white;
     border-radius: 5px;
 }
 
+.main-about .btn-outline-secondary {
+    color: white;
+    border-color: white;
+}
+
+.main-about .btn {
+    font-size: 1.5rem;
+}
 /*
 ***********************************
 FOOTER 
