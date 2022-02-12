@@ -101,6 +101,34 @@ MAIN
 .main-about .btn {
     font-size: 1.5rem;
 }
+
+/* CONTACT ME*/
+
+.main-contact-me .main-star{
+    color: #2c3e50;
+}
+
+.main-contact-me .main-star-line{
+    height: 1px;
+    width: 20%;
+    border: 2px solid #2c3e50;
+    border-radius: 5px;
+}
+
+.form-control{ /* SOVRASCRIVO LA PROPRIETA' */
+    border: none;
+    border-bottom: 1px solid #ced4da;
+    border-radius: 0;
+}
+
+.main-contact-me .btn-primary { /* SOVRASCRIVO LA PROPRIETA' */
+    background-color: #1abc9c;
+    border-color: #1abc9c;
+    font-size: 1.2rem;
+}
+
+
+
 /*
 ***********************************
 FOOTER 
